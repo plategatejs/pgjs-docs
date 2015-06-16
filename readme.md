@@ -1,5 +1,4 @@
 # PlateGateJS
 
-
 ## License
-MIT
+[MIT](license.md)
